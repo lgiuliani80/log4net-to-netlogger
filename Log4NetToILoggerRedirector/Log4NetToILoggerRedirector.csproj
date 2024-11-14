@@ -7,6 +7,7 @@
     <Title>Log4Net appender for .NET ILogger</Title>
     <Description>Log4Net appender to redirect all log4net logging to Microsoft .NET logging facility (Microsoft.Extensions.Logging.ILogger&lt;T&gt;)</Description>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	<VersionPrefix>8.0.0</VersionPrefix>
   </PropertyGroup>
 
   <ItemGroup>
